@@ -7,7 +7,7 @@
 https://song-data-api.onrender.com
 
 ## Test Links
-https://song-data-api.onrender.com/api/artists
+[/api/artists](https://song-data-api.onrender.com/api/artists)
 https://song-data-api.onrender.com/api/artists/129 
 https://song-data-api.onrender.com/api/artists/sdfjkhsdf
 https://song-data-api.onrender.com/api/artists/averages/129 
