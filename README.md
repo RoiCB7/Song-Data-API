@@ -9,7 +9,7 @@ As long as Render is hosting, just click one of the test links! Database can be 
 - Javascript
 - Node.js - JS Runtime
 - Express - Routing
-- SQLite 3
+- SQLite 3 - Database Querying
 - Hosted and deployed on Render - https://song-data-api.onrender.com/
 
 ## Test Links
