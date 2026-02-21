@@ -1,10 +1,13 @@
 # Song Data API
+This project contains code for API route querying an existing song database. Results are returned in JSON format
 
 ## Overview
 
 ## Built With
-
-https://song-data-api.onrender.com
+- Javascript
+- Node.js - JS Runtime
+- Express - Routing
+- Hosted and deployed on Render - https://song-data-api.onrender.com/
 
 ## Test Links
 - [/api/artists](https://song-data-api.onrender.com/api/artists)
