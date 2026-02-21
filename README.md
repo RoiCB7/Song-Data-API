@@ -1,7 +1,6 @@
 # Song Data API
-This project contains code for API route querying an existing song database. Results are returned in JSON format
-
 ## Overview
+This project contains code for API route querying an existing song database. Results are returned in JSON format
 
 ## Built With
 - Javascript
