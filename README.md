@@ -6,6 +6,7 @@ This project contains code for API route querying an existing song database. Res
 - Javascript
 - Node.js - JS Runtime
 - Express - Routing
+- SQLite 3
 - Hosted and deployed on Render - https://song-data-api.onrender.com/
 
 ## Test Links
