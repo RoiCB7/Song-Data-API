@@ -1,7 +1,6 @@
 # Song Data API
 ## Overview
-This project contains code for API route querying an existing song database. Results are returned in JSON format
-
+This project is a Web API built using Node.js and Express designed to query an existing music database containing songs, artists, genres, artist types and playlists. The API connects to a local SQLite Database and utilizes endpoints to perform data retrieval, sorting, filtering and searching. 
 ## How to Use
 As long as Render is hosting, just click one of the test links! Database can be found in /data as either song-2026.db or optionally, each table can be viewed as a seperate csv file.
 
@@ -10,7 +9,7 @@ As long as Render is hosting, just click one of the test links! Database can be 
 - Node.js - JS Runtime
 - Express - Routing
 - SQLite 3 - Database Querying
-- Hosted and deployed on Render - https://song-data-api.onrender.com/
+- Hosted and deployed on Render 🚀 - https://song-data-api.onrender.com/
 
 ## Test Links
 - [/api/artists](https://song-data-api.onrender.com/api/artists)
