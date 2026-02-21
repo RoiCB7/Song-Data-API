@@ -2,6 +2,9 @@
 ## Overview
 This project contains code for API route querying an existing song database. Results are returned in JSON format
 
+## How to Use
+As long as Render is hosting, just click one of the test links! Database can be found in /data as either song-2026.db or optionally, each table can be viewed as a seperate csv file.
+
 ## Built With
 - Javascript
 - Node.js - JS Runtime
