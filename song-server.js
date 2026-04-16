@@ -4,6 +4,8 @@
  * 
  */
 const express = require('express');
+const cors = require('cors');
+
 require('./scripts/data-provider');
 
 const artistsRoutes = require('./scripts/routes/artists');
@@ -13,6 +15,13 @@ const playlistsRoutes = require('./scripts/routes/playlists');
 
 const app = express();
 const port = process.env.PORT || 8080;
+
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'https://roicb7.github.io'
+  ]
+}));
 
 app.use(express.json());
 
